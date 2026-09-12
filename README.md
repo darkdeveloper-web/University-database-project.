@@ -1,2 +1,2 @@
 # University-database-project.
-Rhis is the SQLs language based a university managment system that is mostly like that which most of the universities needed.
+This is the SQLs language based a university managment system that is mostly like that which most of the universities needed.
